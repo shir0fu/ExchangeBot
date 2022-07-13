@@ -1,0 +1,5 @@
+{
+  "Token": "5529294246:AAGKE2EJNGgsUUafgvVZOGgUkG3gPiU3FmQ",
+  "Currencies": [ "USD", "EUR", "RUB", "CHF", "GPB", "PLZ", "PLN", "SEK", "CAD" ],
+  "Supported": "Currency codes:\nUSD - dollar\nEUR - euro\nRUB - ruble\nCHF - franc\nGBP - pound\nPLZ/PLN - zloty\nSEK - krona\nCAD - dollar"
+}
